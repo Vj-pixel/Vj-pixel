@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vj-pixel
-- 👀 I’m interested in programming in general
-- 🌱 I’m currently learning python/js
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in making apps in general
+- 🌱 I’m currently learning swift/claude code
+- 💞️ I’m looking to collaborate on just about anything!
 - 📫 How to reach me: email: varunjajara@gmail.com
 
 <!---
